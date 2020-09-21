@@ -1,0 +1,26 @@
+Ceyhun Cafer 
+Professor Ziegler 
+HW2
+CISC 1115
+		This is the output of my first program:
+
+			Table of Function Values
+
+X Value: 			 Y Value: 			   Status:
+-3.00                             -5.683			Y is Negative
+-2.50                             -7.463			Y is Negative
+-2.00                            -10.955			Y is Negative
+-1.50                            -25.691			Y is Negative
+-1.00                             -3.333			Y is Negative
+-0.50                              0.978			Y is Positive
+ 0.00                              2.000			Y is Positive
+ 0.50                              0.699			Y is Positive
+ 1.00                             -1.667			Y is Negative
+ 1.50                             -8.564			Y is Negative
+ 2.00                             -2.191			Y is Negative
+ 2.50                             -0.678			Y is Negative
+ 3.00                              0.000			Y Is Zero
+ 3.50                              0.351			Y is Positive
+ 4.00                              0.543			Y is Positive
+
+		The table is complete, and the program has halted.
