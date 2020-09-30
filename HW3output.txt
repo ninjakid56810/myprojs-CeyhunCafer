@@ -1,0 +1,343 @@
+Ceyhun Cafer 
+Professor Ziegler 
+HW3
+CISC 1115
+
+
+
+ID: 6176
+Answered Correctly: 20
+Answered Incorrectly: 5
+Total Answered: 25
+Total Omitted: 25
+Correct Answer Percentage: 0.800
+Grade: 40
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 1291
+Answered Correctly: 15
+Answered Incorrectly: 2
+Total Answered: 17
+Total Omitted: 33
+Correct Answer Percentage: 0.882
+Grade: 30
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 5140
+Answered Correctly: 0
+Answered Incorrectly: 0
+Total Answered: 0
+Total Omitted: 50
+Divide by 0 error. Student not processed.
+
+
+
+ID: 1337
+Answered Correctly: 35
+Answered Incorrectly: 5
+Total Answered: 40
+Total Omitted: 10
+Correct Answer Percentage: 0.875
+Grade: 70
+More right answers than wrong
+Exactly 10 omitted
+
+
+
+
+ID: 2459
+Answered Correctly: 13
+Answered Incorrectly: 30
+Total Answered: 43
+Total Omitted: 7
+Correct Answer Percentage: 0.302
+Grade: 26
+More wrong answers than right
+Less than 10 omitted
+
+
+
+
+ID: 9165
+More than 50 questions answered. Student Not processed
+
+
+
+
+ID: 8132
+Answered Correctly: 0
+Answered Incorrectly: 0
+Total Answered: 0
+Total Omitted: 50
+Divide by 0 error. Student not processed.
+
+
+
+ID: 2019
+More than 50 questions answered. Student Not processed
+
+
+
+
+ID: 5943
+Answered Correctly: 45
+Answered Incorrectly: 5
+Total Answered: 50
+Total Omitted: 0
+Correct Answer Percentage: 0.900
+Grade: 90
+More right answers than wrong
+Less than 10 omitted
+
+
+
+
+ID: 9029
+Answered Correctly: 42
+Answered Incorrectly: 8
+Total Answered: 50
+Total Omitted: 0
+Correct Answer Percentage: 0.840
+Grade: 84
+More right answers than wrong
+Less than 10 omitted
+
+
+
+
+ID: 6527
+Answered Correctly: 32
+Answered Incorrectly: 7
+Total Answered: 39
+Total Omitted: 11
+Correct Answer Percentage: 0.821
+Grade: 64
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 6731
+Answered Correctly: 0
+Answered Incorrectly: 0
+Total Answered: 0
+Total Omitted: 50
+Divide by 0 error. Student not processed.
+
+
+
+ID: 5467
+Answered Correctly: 13
+Answered Incorrectly: 9
+Total Answered: 22
+Total Omitted: 28
+Correct Answer Percentage: 0.591
+Grade: 26
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 3255
+Answered Correctly: 22
+Answered Incorrectly: 20
+Total Answered: 42
+Total Omitted: 8
+Correct Answer Percentage: 0.524
+Grade: 44
+More right answers than wrong
+Less than 10 omitted
+
+
+
+
+ID: 3781
+More than 50 questions answered. Student Not processed
+
+
+
+
+ID: 1888
+Answered Correctly: 0
+Answered Incorrectly: 0
+Total Answered: 0
+Total Omitted: 50
+Divide by 0 error. Student not processed.
+
+
+
+ID: 2138
+Answered Correctly: 24
+Answered Incorrectly: 7
+Total Answered: 31
+Total Omitted: 19
+Correct Answer Percentage: 0.774
+Grade: 48
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 6498
+Answered Correctly: 15
+Answered Incorrectly: 15
+Total Answered: 30
+Total Omitted: 20
+Correct Answer Percentage: 0.500
+Grade: 30
+The same amount of right and wrong answers
+More than 10 omitted
+
+
+
+
+ID: 6219
+Answered Correctly: 0
+Answered Incorrectly: 0
+Total Answered: 0
+Total Omitted: 50
+Divide by 0 error. Student not processed.
+
+
+
+ID: 5092
+Answered Correctly: 29
+Answered Incorrectly: 9
+Total Answered: 38
+Total Omitted: 12
+Correct Answer Percentage: 0.763
+Grade: 58
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 4496
+Answered Correctly: 13
+Answered Incorrectly: 17
+Total Answered: 30
+Total Omitted: 20
+Correct Answer Percentage: 0.433
+Grade: 26
+More wrong answers than right
+More than 10 omitted
+
+
+
+
+ID: 1208
+Answered Correctly: 12
+Answered Incorrectly: 6
+Total Answered: 18
+Total Omitted: 32
+Correct Answer Percentage: 0.667
+Grade: 24
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 5735
+More than 50 questions answered. Student Not processed
+
+
+
+
+ID: 8953
+Answered Correctly: 39
+Answered Incorrectly: 7
+Total Answered: 46
+Total Omitted: 4
+Correct Answer Percentage: 0.848
+Grade: 78
+More right answers than wrong
+Less than 10 omitted
+
+
+
+
+ID: 9018
+Answered Correctly: 28
+Answered Incorrectly: 9
+Total Answered: 37
+Total Omitted: 13
+Correct Answer Percentage: 0.757
+Grade: 56
+More right answers than wrong
+More than 10 omitted
+
+
+
+
+ID: 2388
+Answered Correctly: 13
+Answered Incorrectly: 27
+Total Answered: 40
+Total Omitted: 10
+Correct Answer Percentage: 0.325
+Grade: 26
+More wrong answers than right
+Exactly 10 omitted
+
+
+
+
+ID: 7891
+More than 50 questions answered. Student Not processed
+
+
+
+
+ID: 8271
+Answered Correctly: 35
+Answered Incorrectly: 5
+Total Answered: 40
+Total Omitted: 10
+Correct Answer Percentage: 0.875
+Grade: 70
+More right answers than wrong
+Exactly 10 omitted
+
+
+
+
+ID: 7845
+Answered Correctly: 5
+Answered Incorrectly: 25
+Total Answered: 30
+Total Omitted: 20
+Correct Answer Percentage: 0.167
+Grade: 10
+More wrong answers than right
+More than 10 omitted
+
+
+
+
+ID: 6271
+Answered Correctly: 0
+Answered Incorrectly: 0
+Total Answered: 0
+Total Omitted: 50
+Divide by 0 error. Student not processed.
+
+
+
+
+
+
+
+Total amount of students processed: 19
