@@ -1,0 +1,159 @@
+Ceyhun Cafer
+Professor Ziegler
+HW3
+CISC 1115
+
+
+Score 1: 150   Score 2: 200    Score 3: 250   
+Group is valid
+Score of : 150 was a very good game
+Score of : 200 was an excellent game
+Score of : 250 was a professional game
+The average of the three scores were: 200
+Total Score of : 200 was an excellent game
+
+
+
+Score 1: 75   Score 2: 90    Score 3: 210   
+Group is valid
+Score of : 75 was a poor game
+Score of : 90 was a poor game
+Score of : 210 was an excellent game
+The average of the three scores were: 125
+Total Score of : 125 was a good game
+
+
+
+Score 1: 125   Score 2: 364    Score 3: -50   
+Score 364 is invalid because it is greater than 300.
+Score -50 is invalid because it is less than 0.
+Group is invalid
+
+
+
+Score 1: 0   Score 2: 300    Score 3: -64   
+Score -64 is invalid because it is less than 0.
+Group is invalid
+
+
+
+Score 1: 300   Score 2: 0    Score 3: 387   
+Score 387 is invalid because it is greater than 300.
+Group is invalid
+
+
+
+Score 1: 127   Score 2: 285    Score 3: 55   
+Group is valid
+Score of : 127 was a good game
+Score of : 285 was a professional game
+Score of : 55 was a poor game
+The average of the three scores were: 155
+Total Score of : 155 was a very good game
+
+
+
+Score 1: -42   Score 2: 55    Score 3: 328   
+Score -42 is invalid because it is less than 0.
+Score 328 is invalid because it is greater than 300.
+Group is invalid
+
+
+
+Score 1: 97   Score 2: 153    Score 3: 229   
+Group is valid
+Score of : 97 was a poor game
+Score of : 153 was a very good game
+Score of : 229 was an excellent game
+The average of the three scores were: 159
+Total Score of : 159 was a very good game
+
+
+
+Score 1: 10   Score 2: 15    Score 3: 25   
+Group is valid
+Score of : 10 was a horrible game
+Score of : 15 was a horrible game
+Score of : 25 was a horrible game
+The average of the three scores were: 16
+Total Score of : 16 was a horrible game
+
+
+
+Score 1: 300   Score 2: 300    Score 3: 300   
+Group is valid
+Score of : 300 was a professional game
+Score of : 300 was a professional game
+Score of : 300 was a professional game
+The average of the three scores were: 300
+Total Score of : 300 was a professional game
+
+
+
+Score 1: 0   Score 2: 0    Score 3: 0   
+Group is valid
+Score of : 0 was a horrible game
+Score of : 0 was a horrible game
+Score of : 0 was a horrible game
+The average of the three scores were: 0
+Total Score of : 0 was a horrible game
+
+
+
+Score 1: -42   Score 2: -15    Score 3: -79   
+Score -42 is invalid because it is less than 0.
+Score -15 is invalid because it is less than 0.
+Score -79 is invalid because it is less than 0.
+Group is invalid
+
+
+
+Score 1: 287   Score 2: 15    Score 3: 56   
+Group is valid
+Score of : 287 was a professional game
+Score of : 15 was a horrible game
+Score of : 56 was a poor game
+The average of the three scores were: 119
+Total Score of : 119 was a good game
+
+
+
+Score 1: 243   Score 2: 178    Score 3: 125   
+Group is valid
+Score of : 243 was an excellent game
+Score of : 178 was a very good game
+Score of : 125 was a good game
+The average of the three scores were: 182
+Total Score of : 182 was a very good game
+
+
+
+Score 1: -764   Score 2: -30    Score 3: 0   
+Score -764 is invalid because it is less than 0.
+Score -30 is invalid because it is less than 0.
+Group is invalid
+
+
+
+Score 1: 123   Score 2: 456    Score 3: 789   
+Score 456 is invalid because it is greater than 300.
+Score 789 is invalid because it is greater than 300.
+Group is invalid
+
+
+
+Score 1: 179   Score 2: 255    Score 3: 87   
+Group is valid
+Score of : 179 was a very good game
+Score of : 255 was a professional game
+Score of : 87 was a poor game
+The average of the three scores were: 173
+Total Score of : 173 was a very good game
+
+
+
+
+
+Total number of groups processed: 17
+Total number of valid groups processed: 10
+Total number of invalid groups processed: 7
