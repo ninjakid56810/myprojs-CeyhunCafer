@@ -1,0 +1,219 @@
+Ceyhun Cafer
+Professor Ziegler
+HW6
+CISC 1115
+
+
+Operation: addition
+Augend: 50
+Addend: 25
+Sum: 75
+
+
+Operation: addition
+Augend: 100
+Addend: 1000
+Sum: 1100
+
+
+Operation: addition
+Augend: 59
+Addend: 68
+Sum: 127
+
+
+Operation: addition
+Augend: 628
+Addend: 365
+Sum: 993
+
+
+Operation: subtraction
+Minuend: 25
+Subtrahend: 90
+Difference: -65
+
+
+Operation: subtraction
+Minuend: 100
+Subtrahend: 100
+Difference: 0
+
+
+Operation: subtraction
+Minuend: 564
+Subtrahend: 372
+Difference: 192
+
+
+Operation: subtraction
+Minuend: 191
+Subtrahend: 378
+Difference: -187
+
+
+Operation: multiplication
+Multiplicand: 5
+Multiplier: 4
+Product: 20
+
+
+Operation: multiplication
+Multiplicand: 2
+Multiplier: 2
+Product: 4
+
+
+Operation: multiplication
+Multiplicand: 100
+Multiplier: 100
+Product: 10000
+
+
+Operation: multiplication
+Multiplicand: 5
+Multiplier: 100
+Product: 500
+
+
+Operation: division
+Dividend: 20.0
+Divisor: 5.0
+Quotient: 4.0
+
+
+Operation: division
+Dividend: 191.0
+Divisor: 17.0
+Quotient: 11.235294117647058
+
+
+Operation: division
+Dividend: 562.0
+Divisor: 2.0
+Quotient: 281.0
+
+
+Operation: division
+Dividend: 100.0
+Divisor: 100.0
+Quotient: 1.0
+
+
+Operation: modulo
+Dividend: 50
+Divisor: 5
+Modulo: 0
+
+
+Operation: modulo
+Dividend: 29
+Divisor: 3
+Modulo: 2
+
+
+Operation: modulo
+Dividend: 17
+Divisor: 5
+Modulo: 2
+
+
+Operation: modulo
+Dividend: 100
+Divisor: 19
+Modulo: 5
+
+
+Operation: modulo
+Dividend: 25
+Divisor: 5
+Modulo: 0
+
+
+Operation: division
+Dividend: 22.0
+Divisor: 7.0
+Quotient: 3.142857142857143
+
+
+Operation: average
+First number: 75
+Second number: 80
+Average: 77
+
+
+Operation: average
+First number: 65
+Second number: 85
+Average: 75
+
+
+Operation: maximum
+First number: 567
+Second number: 285
+The biggest value of the two numbers is: 567
+
+
+Operation: maximum
+First number: 255
+Second number: 255
+The two numbers are equal to each other.
+
+
+Operation: maximum
+First number: 10000
+Second number: 10000
+The two numbers are equal to each other.
+
+
+Operation: maximum
+First number: 5518
+Second number: 11981
+The biggest value of the two numbers is: 11981
+
+
+Operation:  minimum
+First number: 15
+Second number: 30
+The smallest value of the two numbers is: 15
+
+
+Operation: minimum
+First number: 29
+Second number: 29
+The two numbers are equal to each other.
+
+
+Operation: minimum
+First number: 17
+Second number: 17
+The two numbers are equal to each other.
+
+
+Operation: minimum
+First number: 5000
+Second number: 0
+The smallest value of the two numbers is: 0
+
+
+Operation: square
+The number you chose to square is: 4
+The squared value is: 16
+
+
+Operation: square
+The number you chose to square is: 128
+The squared value is: 16384
+
+
+Operation: square
+The number you chose to square is: 8
+The squared value is: 64
+
+
+Operation: square
+The number you chose to square is: 16
+The squared value is: 256
+
+
+Number of times this calculator was used before user Quit: 36
