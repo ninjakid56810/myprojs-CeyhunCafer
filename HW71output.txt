@@ -1,0 +1,180 @@
+Ceyhun Cafer 
+Professor Ziegler 
+HW7.1
+CISC 1115
+
+Account Number 	        Balance
+    123456               200.55
+    567890              1234.56
+    987654                 2.33
+    234567               500.00
+    345678               123.98
+    333333               999.99
+    748291               768.23
+    981351                 0.00
+
+Transaction Type: Show balance
+Account number entered: 123456
+The current balance for this account is: $200.55
+
+Transaction Type: Show balance
+Account number entered: 178233
+Error: Account does not exist.
+
+Transaction Type: Deposit
+Account number entered: 567890
+Curret Balance: $1234.56
+You deposited $279.38
+New Balance: $1513.94
+
+Transaction Type: Deposit
+Account number entered: 567890
+Curret Balance: $1513.94
+Amount tried to deposit: $-50.0
+Invalid deposit amount.
+
+Transaction Type: Deposit
+Account number entered: 178233
+Error: Account does not exist.
+
+Transaction Type: Deposit
+Account number entered: 981351
+Curret Balance: $0.0
+Amount tried to deposit: $-50.0
+Invalid deposit amount.
+
+Transaction Type: Deposit
+Account number entered: 981351
+Curret Balance: $0.0
+You deposited $250.0
+New Balance: $250.0
+
+Transaction Type: Withdrawal
+Account number entered: 981351
+Current Balance: $250.0
+You withdrew $250.0
+New Balance: $0.0
+
+Transaction Type: Withdrawal
+Account number entered: 987654
+Current Balance: $2.33
+You withdrew $1.0
+New Balance: $1.33
+
+Transaction Type: Withdrawal
+Account number entered: 987654
+Amount tried to withdraw: $-2.34
+Invalid withdraw amount.
+
+Transaction Type: Withdrawal
+Account number entered: 987654
+Tried to withdraw: $2.34
+Error: Not enough money in account to be withdrawn.
+Current balance: $1.33
+
+Transaction Type: Withdrawal
+Account number entered: 178233
+Error: Account does not exist.
+
+Transaction Type: New Account
+Account number entered: 984312
+Account Balance: $0
+
+Transaction Type: New Account
+Account number entered: 491082
+Account Balance: $0
+
+Transaction Type: New Account
+Account number entered: 650983
+Account Balance: $0
+
+Transaction Type: New Account
+Account number entered: 123456
+Error: 123456 already exists
+
+Transaction Type: Deposit
+Account number entered: 984312
+Curret Balance: $0.0
+You deposited $50.0
+New Balance: $50.0
+
+Transaction Type: Deposit
+Account number entered: 491082
+Curret Balance: $0.0
+You deposited $387.52
+New Balance: $387.52
+
+Transaction Type: Withdrawal
+Account number entered: 650983
+Tried to withdraw: $100.0
+Error: Not enough money in account to be withdrawn.
+Current balance: $0.0
+
+Transaction Type: Show balance
+Account number entered: 650983
+The current balance for this account is: $0.0
+
+Transaction Type: Withdrawal
+Account number entered: 984312
+Current Balance: $50.0
+You withdrew $25.0
+New Balance: $25.0
+
+Transaction Type: Withdrawal
+Account number entered: 984312
+Tried to withdraw: $26.0
+Error: Not enough money in account to be withdrawn.
+Current balance: $25.0
+
+Transaction Type: Deposit
+Account number entered: 984312
+Curret Balance: $25.0
+You deposited $10000.0
+New Balance: $10025.0
+
+Transaction Type: Deposit
+Account number entered: 650983
+Curret Balance: $0.0
+You deposited $789.43
+New Balance: $789.43
+
+Transaction Type: Deposit
+Account number entered: 491082
+Curret Balance: $387.52
+Amount tried to deposit: $-50.0
+Invalid deposit amount.
+
+Transaction Type: Withdrawal
+Account number entered: 650983
+Amount tried to withdraw: $-56.24
+Invalid withdraw amount.
+
+Transaction Type: Deposit
+Account number entered: 984312
+Curret Balance: $10025.0
+Amount tried to deposit: $-100.0
+Invalid deposit amount.
+
+Transaction Type: Deposit
+Account number entered: 189734
+Error: Account does not exist.
+
+Transaction Type: Withdrawal
+Account number entered: 128904
+Error: Account does not exist.
+
+
+	  Updated Accounts
+Account Number 	        Balance
+    123456               200.55
+    567890              1513.94
+    987654                 1.33
+    234567               500.00
+    345678               123.98
+    333333               999.99
+    748291               768.23
+    981351                 0.00
+    984312             10025.00
+    491082               387.52
+    650983               789.43
+
