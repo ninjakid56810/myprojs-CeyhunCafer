@@ -1,0 +1,88 @@
+Ceyhun Cafer 
+Professor Ziegler 
+HW7_2
+CISC 1115
+
+The elements within the array are: 
+
+7
+-5
+2
+5
+0
+-100
+1
+8
+0
+2
+0
+5
+9
+0
+-20
+-19
+0
+0
+0
+3891
+241
+
+Total integers counted: 21
+Total zeros counted: 7
+
+Appended Array: 
+
+7
+-5
+2
+5
+0
+-100
+1
+8
+0
+2
+0
+5
+9
+0
+-20
+-19
+0
+0
+0
+3891
+241
+2
+7
+0
+8
+5
+0
+2
+9
+0
+1
+0
+1
+-20
+1
+2
+3
+4
+5
+2304
+9015
+-15
+-19
+-1
+-2
+-3
+0
+0
+0
+0
+0
+
+New total integers counted: 51
+New total zeros counted: 16
