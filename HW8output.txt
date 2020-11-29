@@ -1,0 +1,11 @@
+Ceyhun Cafer 
+Professor Ziegler 
+HW8
+CISC 1115
+
+and: 1
+ate: 2
+banana: 2
+elephant: 1
+giraffe: 1
+the: 4
